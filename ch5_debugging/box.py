@@ -15,6 +15,8 @@ try:
     box_print('*', 4, 5)
     box_print('0', 20, 5)
     box_print('x', 1, 3)
+    # this test below is never run, because the TRY block STOPS IMMEDIATELY
+    # as soon as the first exception is hit
     box_print('ZZ', 3, 5)
 except Exception as err:
     print('An exception happned: ' + str(err))
