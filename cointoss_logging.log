@@ -1,0 +1,65 @@
+ 2026-01-03 10:31:57,765 - DEBUG - Start of Program
+ 2026-01-03 10:32:46,841 - DEBUG - Start of Program
+ 2026-01-03 10:35:09,676 - DEBUG - Start of Program
+ 2026-01-03 10:36:51,610 - DEBUG - Start of Program
+ 2026-01-03 10:37:19,509 - DEBUG - Start of Program
+ 2026-01-03 10:49:35,422 - DEBUG - Start of Program
+ 2026-01-03 11:05:11,778 - DEBUG - Start of Program
+ 2026-01-03 11:07:08,087 - DEBUG - Start of Program
+ 2026-01-03 11:07:17,447 - DEBUG - Guess:1
+ 2026-01-03 11:07:22,514 - DEBUG - Start of Program
+ 2026-01-03 11:07:26,380 - DEBUG - Guess:1
+ 2026-01-03 11:07:30,948 - DEBUG - Start of Program
+ 2026-01-03 16:10:48,381 - DEBUG - Start of Program
+ 2026-01-03 16:10:51,824 - DEBUG - Guess:1
+ 2026-01-03 16:13:29,499 - DEBUG - Start of Program
+ 2026-01-03 16:13:38,683 - DEBUG - Guess:0
+ 2026-01-03 16:13:38,683 - DEBUG - Toss1
+ 2026-01-03 16:14:34,416 - DEBUG - 
+Start of Program
+ 2026-01-03 16:14:38,514 - DEBUG - Guess: 1
+ 2026-01-03 16:14:38,514 - DEBUG - Toss: 1
+ 2026-01-03 16:14:48,705 - DEBUG - 
+Start of Program
+ 2026-01-03 16:14:52,162 - DEBUG - Guess: 0
+ 2026-01-03 16:14:52,162 - DEBUG - Toss: 1
+ 2026-01-03 16:16:13,303 - DEBUG - 
+Start of Program
+ 2026-01-03 16:16:13,303 - DEBUG - Guess: 
+ 2026-01-03 16:16:13,303 - DEBUG - Toss: 1
+ 2026-01-03 16:18:55,615 - DEBUG - 
+Start of Program
+ 2026-01-03 16:18:55,615 - DEBUG - Guess: <function cointoss at 0x0000025AFF558040>
+ 2026-01-03 16:18:55,615 - DEBUG - Toss: 1
+ 2026-01-03 16:20:00,334 - DEBUG - 
+Start of Program
+ 2026-01-03 16:20:13,317 - DEBUG - Guess: 1
+ 2026-01-03 16:20:13,317 - DEBUG - Toss: 1
+ 2026-01-03 16:20:17,676 - DEBUG - 
+Start of Program
+ 2026-01-03 16:20:19,613 - DEBUG - Guess: 0
+ 2026-01-03 16:20:19,613 - DEBUG - Toss: 0
+ 2026-01-03 16:20:22,683 - DEBUG - 
+Start of Program
+ 2026-01-03 16:20:24,237 - DEBUG - Guess: 0
+ 2026-01-03 16:20:24,237 - DEBUG - Toss: 0
+ 2026-01-03 16:20:27,803 - DEBUG - 
+Start of Program
+ 2026-01-03 16:20:29,384 - DEBUG - Guess: 0
+ 2026-01-03 16:20:29,384 - DEBUG - Toss: 0
+ 2026-01-03 16:20:32,743 - DEBUG - 
+Start of Program
+ 2026-01-03 16:20:34,316 - DEBUG - Guess: 0
+ 2026-01-03 16:20:34,317 - DEBUG - Toss: 0
+ 2026-01-03 16:20:38,013 - DEBUG - 
+Start of Program
+ 2026-01-03 16:20:39,431 - DEBUG - Guess: 0
+ 2026-01-03 16:20:39,431 - DEBUG - Toss: 0
+ 2026-01-03 16:20:56,875 - DEBUG - 
+Start of Program
+ 2026-01-03 16:20:58,890 - DEBUG - Guess: 1
+ 2026-01-03 16:20:58,890 - DEBUG - Toss: 0
+ 2026-01-03 16:21:19,433 - DEBUG - 
+Start of Program
+ 2026-01-03 16:21:25,658 - DEBUG - Guess: 1
+ 2026-01-03 16:21:25,658 - DEBUG - Toss: 1
