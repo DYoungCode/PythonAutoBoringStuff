@@ -1,0 +1,45 @@
+1.  Write an assert statement that triggers an AssertionError if the variable spam is an integer less than 10.
+
+assert spam >= 10, "Error: spam shouldn't be < 10"
+
+  2.  Write an assert statement that triggers an AssertionError if the variables eggs and bacon contain strings that are the same as each other, even if their cases are different. (That is, 'hello' and 'hello' are considered the same, as are 'goodbye' and 'GOODbye'.)
+
+assert eggs.lower() != bacon.lower(), "Error: eggs and bacon shouldn't be the same"
+
+  3.  Write an assert statement that always triggers an AssertionError.
+assert 1 = 2, "Error: One should always equal 2"
+
+  4.  What two lines must your program have to be able to call logging.debug()?
+import logging
+logging.basicConfig(level=logging.DEBUG)
+
+  5.  What two lines must your program have to make logging.debug() send a logging message to a file named programLog.txt?
+logging.basicConfig(filename="programLog.txt", level=logging.DEBUG)
+logging.DEBUG("some logging text here")
+
+  6.  What are the five logging levels?
+debug
+info
+warning
+Error
+critical 
+
+  7.  What line of code can you add to disable all logging messages in your program?
+logging.disable()
+
+  8.  Why is using logging messages better than using print() to display the same message?
+you can turn off logging with 1 command
+
+  9.  What are the differences between the Step Over, Step In, and Step Out buttons in the debugger?
+Step Over - steps through statements, but skips nested code / functions
+Step In - steps into blocks of code / functions
+Step Out - steps out of the nested block
+
+10.  After you click Continue, when will the debugger stop?
+when the program is done running
+
+11.  What is a breakpoint?
+It sets the point where the debugger should pause so you can start examining the code
+
+12.  How do you set a breakpoint on a line of code in Mu?
+click the line number next to the code you want to examine
